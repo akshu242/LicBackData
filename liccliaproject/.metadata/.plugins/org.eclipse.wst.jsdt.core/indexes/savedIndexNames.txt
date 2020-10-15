@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+/home/sunbeam/Project All/ProJava/liccliaproject/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1862004918.index

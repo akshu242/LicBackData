@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths/>
+ <validation>
+  <el>
+   <linked-el length="23" name="%0" offset="971" path="%1"/>
+   <linked-el length="32" name="%2" offset="529" path="%3"/>
+   <linked-el length="27" name="%2" offset="673" path="%3"/>
+   <linked-el length="19" name="%4" offset="1995" path="%5"/>
+   <linked-el length="19" name="%6" offset="1909" path="%5"/>
+   <linked-el length="22" name="%7" offset="938" path="%1"/>
+   <linked-el length="32" name="%8" offset="529" path="%3"/>
+   <linked-el length="27" name="%8" offset="673" path="%3"/>
+   <linked-el length="19" name="%9" offset="695" path="%5"/>
+   <linked-el length="17" name="%10" offset="886" path="%1"/>
+   <linked-el length="22" name="%10" offset="938" path="%1"/>
+   <linked-el length="18" name="%10" offset="909" path="%1"/>
+   <linked-el length="23" name="%10" offset="971" path="%1"/>
+   <linked-el length="24" name="%11" offset="52" path="%5"/>
+   <linked-el length="18" name="%12" offset="909" path="%1"/>
+   <linked-el length="32" name="%13" offset="529" path="%3"/>
+   <linked-el length="27" name="%13" offset="673" path="%3"/>
+   <linked-el length="43" name="%14" offset="647" path="%5"/>
+   <linked-el length="29" name="%14" offset="578" path="%15"/>
+   <linked-el length="41" name="%14" offset="478" path="%5"/>
+   <linked-el length="19" name="%16" offset="1909" path="%5"/>
+   <linked-el length="24" name="%17" offset="52" path="%5"/>
+   <linked-el length="19" name="%18" offset="1995" path="%5"/>
+   <linked-el length="19" name="%19" offset="1909" path="%5"/>
+   <linked-el length="19" name="%19" offset="1995" path="%5"/>
+   <linked-el length="43" name="%20" offset="647" path="%5"/>
+   <linked-el length="29" name="%20" offset="578" path="%15"/>
+   <linked-el length="41" name="%20" offset="478" path="%5"/>
+   <linked-el length="19" name="%21" offset="695" path="%5"/>
+   <linked-el length="32" name="%22" offset="529" path="%3"/>
+   <linked-el length="27" name="%22" offset="673" path="%3"/>
+   <linked-el length="32" name="%23" offset="529" path="%3"/>
+   <linked-el length="27" name="%23" offset="673" path="%3"/>
+   <linked-el length="24" name="%24" offset="52" path="%5"/>
+   <linked-el length="19" name="%24" offset="695" path="%5"/>
+   <linked-el length="17" name="%25" offset="886" path="%1"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="jdbc.password" value="%0"/>
+  <alias path="nio.https.port" value="%4"/>
+  <alias path="nio.http.port" value="%6"/>
+  <alias path="jdbc" value="%10"/>
+  <alias path="jdbc.url" value="%12"/>
+  <alias path="nio.https" value="%18"/>
+  <alias path="nio" value="%19"/>
+  <alias path="org.eclipse.m2e.log" value="%23"/>
+  <alias path="jdbc.driver" value="%25"/>
+  <alias path="org.eclipse.m2e.log.dir" value="%2"/>
+  <alias path="jdbc.username" value="%7"/>
+  <alias path="org" value="%8"/>
+  <alias
+   path="/LIC/Servers/Pivotal tc Server Developer Edition v4.0-config/server.xml" value="%5"/>
+  <alias path="base.jmx" value="%9"/>
+  <alias path="/LIC/resources/hibernate-persistence.xml" value="%1"/>
+  <alias path="base.shutdown.port" value="%11"/>
+  <alias path="org.eclipse.m2e" value="%13"/>
+  <alias path="catalina.base" value="%14"/>
+  <alias path="nio.http" value="%16"/>
+  <alias path="base.shutdown" value="%17"/>
+  <alias
+   path="/LIC/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.12.0.20190529-1916.xml" value="%3"/>
+  <alias path="catalina" value="%20"/>
+  <alias path="base.jmx.port" value="%21"/>
+  <alias path="org.eclipse" value="%22"/>
+  <alias
+   path="/LIC/Servers/Pivotal tc Server Developer Edition v4.0-config/context.xml" value="%15"/>
+  <alias path="base" value="%24"/>
+ </aliases>
+ <includes/>
+ <uris/>
+</kb-project>
